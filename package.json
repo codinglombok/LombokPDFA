@@ -1,0 +1,15 @@
+{
+  "name": "lombokpdfa",
+  "version": "0.1.0",
+  "description": "PDF/A archival format compliance (ISO 19005) — part of Lombok Ecosystem",
+  "main": "typescript/pdfa.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codinglombok/LombokPDFA.git"
+  },
+  "keywords": ["pdf", "pdfa", "archival", "iso-19005", "compliance", "lombok"],
+  "author": "codinglombok",
+  "license": "Apache-2.0",
+  "bugs": { "url": "https://github.com/codinglombok/LombokPDFA/issues" },
+  "homepage": "https://github.com/codinglombok/LombokPDFA#readme"
+}
